@@ -1,0 +1,6 @@
+{
+  "name": "One Call",
+  "description": "Complete Household Management & Repair Solutions with premium security audits and emergency SOS support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
